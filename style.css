@@ -1,20 +1,20 @@
 @font-face {
   font-family: bgfont;
-  src: url(fonts/manha.ttf);
+  src: url(manha.ttf);
 }
 @font-face {
   font-family: bgcom;
-  src: url(fonts/nondon.ttf);
+  src: url(nondon.ttf);
 }
 @font-face {
   font-family: SutonnyMJ;
-  src: url(fonts/SutonnyMJ.ttf);
+  src: url(SutonnyMJ.ttf);
 }
 
 
 
 body{
-	background-image: url(img/bodybg.jpg);
+	background-image: url(bodybg.jpg);
 	background-attachment: fixed;
 }
 .head_theme{
