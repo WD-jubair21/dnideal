@@ -1,0 +1,67 @@
+@font-face {
+  font-family: bgfont;
+  src: url(fonts/manha.ttf);
+}
+@font-face {
+  font-family: bgcom;
+  src: url(fonts/nondon.ttf);
+}
+@font-face {
+  font-family: SutonnyMJ;
+  src: url(fonts/SutonnyMJ.ttf);
+}
+
+
+
+body{
+	background-image: url(img/bodybg.jpg);
+	background-attachment: fixed;
+}
+.head_theme{
+	width: 1500px;
+	height: 600px;
+	text-align: center;
+	margin: auto;
+}
+
+
+
+.thmimg{
+	z-index: 500;
+}
+.head_slider{
+
+	margin: 0 auto;
+	margin-top: -400px;
+	width: 800PX;
+	overflow: hidden;
+	transition: 3s;
+}
+
+
+.logo{
+	width: 180px;
+	margin-top: -92px;
+	transition: 2s;
+}
+.wrap{
+	width: 1500px;
+	height: 300px;
+	margin: auto;
+	background-color: white;
+	text-align: center;
+	margin-top: -300px;
+}
+
+.marquee{
+	width: 1500px;
+	height: 40px;
+	background-color: black;
+	margin: 10px auto;
+}
+
+.scroll{
+	margin-top: 6px;
+	color: white;
+
+}
