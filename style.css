@@ -104,6 +104,14 @@ ul li a{
 	text-decoration: none;
 }
 
+ul li:hover{
+	background-color: black;
+}
+ul li a:hover{
+	color: gray;
+	text-decoration: none;
+}
+
 
 .slider{
 	width: 1500px;
