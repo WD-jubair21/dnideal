@@ -81,7 +81,8 @@ body{
 	height: 50px;
 	background-color: #0d414a;
 	margin: 0 auto;
-	font-family: sutonnyMJ;
+	font-family: SutonnyMJ;
+	overflow: hidden;
 }
 
 ul{
