@@ -282,3 +282,21 @@ ul li a:hover{
 }
 
 
+
+
+.submit{
+	width: 60px;
+	height: 20px;
+	position: absolute;
+	margin-left: 866px;
+	margin-top: 383px;
+	z-index: 80000;
+}
+
+.boardresult{
+	width: 1500px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: gray;
+}
+
